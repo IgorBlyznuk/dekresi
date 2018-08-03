@@ -1,1 +1,2 @@
 # dekresi
+graphQL tutorial
